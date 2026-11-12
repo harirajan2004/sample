@@ -1,0 +1,3 @@
+com\healthcare\gateway\ApiGatewayApplication.class
+com\healthcare\gateway\web\FallbackController.class
+com\healthcare\gateway\config\RateLimitConfig.class
